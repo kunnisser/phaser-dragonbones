@@ -1,5 +1,5 @@
 Phaser + DragonBones
-===
+---
 
 ![Capture.png](https://raw.githubusercontent.com/raksa/phaser-dragonbones/master/screenshot/Capture.PNG)
 
